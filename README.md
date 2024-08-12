@@ -12,4 +12,4 @@ Model and Validation Data: A ZIP file containing the trained Keras final model a
 Application: The app that opens the camera, detects faces using an OpenCV model, and predicts the emotion with the model I trained.
 probar_modelo.ipynb: A notebook for testing and validating the model.
 
-The model I trained has an accuracy of only 56%, but it works surprisingly well in real-world scenarios.
+The model I trained has an accuracy of only 58%, but it works surprisingly well in real-world scenarios.
