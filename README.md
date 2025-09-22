@@ -33,8 +33,6 @@ The program will open your webcam, detect faces using `OpenCV`, and display the 
 
 The project includes the trained model saved as `.keras`, a Jupyter notebook (`model_trainingCNN.ipynb`) showing the training process, an `app/` folder with the Tkinter + OpenCV application, and `data/` with example images for quick testing. Additional folders like `training/` and `images/` contain experiments and demo material used in the README.  
 
-Aquí lo tienes corregido y bien formateado en **Markdown** para tu README:
-
 ```
 Facial-Emotion-Detection-Keras/
 │
