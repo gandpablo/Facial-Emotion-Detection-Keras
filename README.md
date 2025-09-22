@@ -4,7 +4,7 @@ This project performs **facial emotion recognition** by classifying images into 
 
 It is trained on the [FER2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013) (grayscale faces at 48×48 resolution) and combines [`OpenCV`](https://opencv.org/) for real-time face detection with a `Tkinter` application that displays the predicted emotions in Spanish.  
 
-The classification model is implemented as a **Convolutional Neural Network (CNN)** using `Keras` ([docs](https://keras.io/)).  
+The classification model is implemented as a **Convolutional Neural Network (CNN)** using [`Keras`](https://keras.io/).  
 
 **Demo:**  
 
