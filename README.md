@@ -20,7 +20,7 @@ Run the application locally to start real-time facial emotion detection.
 The program will open your webcam, detect faces using `OpenCV`, and display the predicted emotions in Spanish through a simple `Tkinter` interface.  
 
    ```bash
-   git clone https://github.com/yourusername/Facial-Emotion-Detection-Keras.git
+   git clone https://github.com/gandpablo/Facial-Emotion-Detection-Keras
    cd Facial-Emotion-Detection-Keras
    pip install -r requirements.txt
    cd app
